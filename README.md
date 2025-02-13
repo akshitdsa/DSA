@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -61,9 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/akshitdsa/DSA/tree/master/0455-assign-cookies) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->

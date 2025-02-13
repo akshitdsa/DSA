@@ -14,19 +14,25 @@ public:
         while(hired < k){
             
             while(pq1.size() < candidates && i<=j) 
-                pq1.push(costs[i++]);
+            {
+                pq1.push(costs[i]);
+                i++;
+            }
             while(pq2.size()<candidates && j>=i) 
-                pq2.push(costs[j--]);
+            {
+                pq2.push(costs[j]);
+                j--;
+            }
             
             
-            int a = pq1.size() > 0 ? pq1.top() : INT_MAX;
-            int b = pq2.size() > 0 ? pq2.top() : INT_MAX;
+            int min_pq1 = pq1.size() > 0 ? pq1.top() : INT_MAX;
+            int min_pq2 = pq2.size() > 0 ? pq2.top() : INT_MAX;
             
-            if(a <= b){
-                ans += a;
+            if(min_pq1 <= min_pq2){
+                ans += min_pq1;
                 pq1.pop();
             } else {
-                ans += b;
+                ans += min_pq2;
                 pq2.pop();
             }
             

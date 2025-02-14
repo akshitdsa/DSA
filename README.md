@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
+| [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
+| [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akshitdsa/DSA/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->

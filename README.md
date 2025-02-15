@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
+| [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
 | [2228-watering-plants-ii](https://github.com/akshitdsa/DSA/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
+| [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
 | [2228-watering-plants-ii](https://github.com/akshitdsa/DSA/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
 <!---LeetCode Topics End-->

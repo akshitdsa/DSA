@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 | [2228-watering-plants-ii](https://github.com/akshitdsa/DSA/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshitdsa/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -103,9 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Matrix
 |  |
 | ------- |
 | [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshitdsa/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshitdsa/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshitdsa/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshitdsa/DSA/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshitdsa/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshitdsa/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshitdsa/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/akshitdsa/DSA/tree/master/0088-merge-sorted-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akshitdsa/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/akshitdsa/DSA/tree/master/0455-assign-cookies) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |

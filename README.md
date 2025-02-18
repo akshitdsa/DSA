@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
 | [1708-design-parking-system](https://github.com/akshitdsa/DSA/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akshitdsa/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Matrix
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
 ## Design
 |  |
 | ------- |

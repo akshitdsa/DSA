@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akshitdsa/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akshitdsa/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |

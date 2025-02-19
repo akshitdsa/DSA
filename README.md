@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshitdsa/DSA/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/akshitdsa/DSA/tree/master/1002-maximum-width-ramp) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/akshitdsa/DSA/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akshitdsa/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1708-design-parking-system](https://github.com/akshitdsa/DSA/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akshitdsa/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -163,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

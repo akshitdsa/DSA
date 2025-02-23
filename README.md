@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshitdsa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akshitdsa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/akshitdsa/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akshitdsa/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshitdsa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/akshitdsa/DSA/tree/master/0165-compare-version-numbers) |
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshitdsa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akshitdsa/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

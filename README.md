@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshitdsa/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akshitdsa/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshitdsa/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 ## Greedy
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akshitdsa/DSA/tree/master/0054-spiral-matrix) |
 | [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/akshitdsa/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshitdsa/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
 |  |
 | ------- |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1002-maximum-width-ramp](https://github.com/akshitdsa/DSA/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/akshitdsa/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/akshitdsa/DSA/tree/master/1803-average-waiting-time) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [1002-maximum-width-ramp](https://github.com/akshitdsa/DSA/tree/master/1002-maximum-width-ramp) |
+| [1019-squares-of-a-sorted-array](https://github.com/akshitdsa/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [1894-merge-strings-alternately](https://github.com/akshitdsa/DSA/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/akshitdsa/DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/akshitdsa/DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1019-squares-of-a-sorted-array](https://github.com/akshitdsa/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akshitdsa/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |

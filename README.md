@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/akshitdsa/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/akshitdsa/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitdsa/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
 | ------- |
@@ -200,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitdsa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akshitdsa/DSA/tree/master/0219-contains-duplicate-ii) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitdsa/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->

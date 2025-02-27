@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/akshitdsa/DSA/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/akshitdsa/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1083-two-sum-less-than-k](https://github.com/akshitdsa/DSA/tree/master/1083-two-sum-less-than-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshitdsa/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/akshitdsa/DSA/tree/master/1803-average-waiting-time) |
 | [1972-rotating-the-box](https://github.com/akshitdsa/DSA/tree/master/1972-rotating-the-box) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshitdsa/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitdsa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akshitdsa/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshitdsa/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitdsa/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitdsa/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->

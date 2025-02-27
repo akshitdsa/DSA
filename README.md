@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
 | [1119-robot-bounded-in-circle](https://github.com/akshitdsa/DSA/tree/master/1119-robot-bounded-in-circle) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitdsa/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/akshitdsa/DSA/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/akshitdsa/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -208,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitdsa/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akshitdsa/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitdsa/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitdsa/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->

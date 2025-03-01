@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshitdsa/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2868-continuous-subarrays](https://github.com/akshitdsa/DSA/tree/master/2868-continuous-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akshitdsa/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2868-continuous-subarrays](https://github.com/akshitdsa/DSA/tree/master/2868-continuous-subarrays) |
 | [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/akshitdsa/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2868-continuous-subarrays](https://github.com/akshitdsa/DSA/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -213,5 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshitdsa/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/akshitdsa/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitdsa/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2868-continuous-subarrays](https://github.com/akshitdsa/DSA/tree/master/2868-continuous-subarrays) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitdsa/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/akshitdsa/DSA/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/akshitdsa/DSA/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->

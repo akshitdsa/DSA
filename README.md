@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshitdsa/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/akshitdsa/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitdsa/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/akshitdsa/DSA/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/akshitdsa/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/akshitdsa/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/akshitdsa/DSA/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshitdsa/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/akshitdsa/DSA/tree/master/1002-maximum-width-ramp) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/akshitdsa/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |

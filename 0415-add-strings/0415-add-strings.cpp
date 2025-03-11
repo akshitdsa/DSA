@@ -1,50 +1,75 @@
+// class Solution {
+// public:
+//     string addStrings(string num1, string num2) {
+//         // accessing lastdigit of the num1 string
+//         int i = num1.size()-1;
+
+//         // accessing lastdigit of the num2 string 
+//         int j = num2.size()-1;
+
+//         // declared a integer variable carry and assigned it 0
+//         int carry = 0;
+
+//         // declared an empty string
+//         string ans = "";
+
+//         // traversing the num1 and num2 string till the leftmost digit
+//         // and till carry > 0
+//         while(i>=0 || j>=0 || carry){
+//             //declared an int var sum and assigned 0 to it
+//             long sum = 0;
+
+//             // convert the char to int and add it to sum variable
+//             if(i>=0){
+//                 sum+=num1[i]-'0';
+//                 i--;
+//             }
+
+//             // similarily convert the char to int and it to sum var
+//             if(j>=0){
+//                 sum+=num2[j]-'0';
+//                 j--;
+//             }
+
+//             // add carry to the sum
+//             sum+=carry;
+
+//             // carry is always the leftmost digit of a number
+//             carry=sum/10;
+
+//             /* concatenate the last digit of the sum after converting 
+//              it into string using to_string function */ 
+//             ans+=to_string(sum%10);
+//         }
+
+//         /* as the required sum is obtained in the reverse manner , 
+//          reverse the sum to obtain the actual answer */
+//         reverse(ans.begin(),ans.end());
+//         return ans;
+//     }
+// };
+
 class Solution {
 public:
-    string addStrings(string num1, string num2) {
-        // accessing lastdigit of the num1 string
-        int i = num1.size()-1;
-
-        // accessing lastdigit of the num2 string 
-        int j = num2.size()-1;
-
-        // declared a integer variable carry and assigned it 0
+    std::string addStrings(std::string num1, std::string num2) {
+        int i = num1.size() - 1, j = num2.size() - 1;
         int carry = 0;
+        std::string result;
 
-        // declared an empty string
-        string ans = "";
+        while (i >= 0 || j >= 0 || carry) {
+            int digit1 = (i >= 0) ? num1[i] - '0' : 0;
+            int digit2 = (j >= 0) ? num2[j] - '0' : 0;
 
-        // traversing the num1 and num2 string till the leftmost digit
-        // and till carry > 0
-        while(i>=0 || j>=0 || carry){
-            //declared an int var sum and assigned 0 to it
-            long sum = 0;
+            int total = digit1 + digit2 + carry;
+            carry = total / 10;
 
-            // convert the char to int and add it to sum variable
-            if(i>=0){
-                sum+=num1[i]-'0';
-                i--;
-            }
+            result.push_back((total % 10) + '0');
 
-            // similarily convert the char to int and it to sum var
-            if(j>=0){
-                sum+=num2[j]-'0';
-                j--;
-            }
-
-            // add carry to the sum
-            sum+=carry;
-
-            // carry is always the leftmost digit of a number
-            carry=sum/10;
-
-            /* concatenate the last digit of the sum after converting 
-             it into string using to_string function */ 
-            ans+=to_string(sum%10);
+            --i;
+            --j;
         }
 
-        /* as the required sum is obtained in the reverse manner , 
-         reverse the sum to obtain the actual answer */
-        reverse(ans.begin(),ans.end());
-        return ans;
+        std::reverse(result.begin(), result.end());
+        return result;
     }
 };

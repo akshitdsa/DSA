@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akshitdsa/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/akshitdsa/DSA/tree/master/0415-add-strings) |
 | [1119-robot-bounded-in-circle](https://github.com/akshitdsa/DSA/tree/master/1119-robot-bounded-in-circle) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshitdsa/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/akshitdsa/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/akshitdsa/DSA/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/akshitdsa/DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/akshitdsa/DSA/tree/master/1002-maximum-width-ramp) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/akshitdsa/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/akshitdsa/DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/akshitdsa/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack

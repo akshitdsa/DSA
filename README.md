@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2561-number-of-distinct-averages](https://github.com/akshitdsa/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akshitdsa/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/akshitdsa/DSA/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/akshitdsa/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2561-number-of-distinct-averages](https://github.com/akshitdsa/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/akshitdsa/DSA/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/akshitdsa/DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/akshitdsa/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2561-number-of-distinct-averages](https://github.com/akshitdsa/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/akshitdsa/DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/akshitdsa/DSA/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/akshitdsa/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/akshitdsa/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akshitdsa/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/akshitdsa/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2561-number-of-distinct-averages](https://github.com/akshitdsa/DSA/tree/master/2561-number-of-distinct-averages) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/akshitdsa/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
